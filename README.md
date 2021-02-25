@@ -12,6 +12,10 @@ const getRgb = HextoRgb("#c5c8c5");
 //output: rgb(197,200,197)
 ```
 
+
+
+
+
 `We've the second  function Rgb to Hex, this receiving a String as argument` 
 
 
