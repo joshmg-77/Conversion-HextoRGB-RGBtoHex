@@ -1,4 +1,3 @@
-
 const RgbtoHex = (rgb)=>{
   let getNumbers = rgb.replace(/(\brgb)?([()])/g,"");    
   let numbers = getNumbers.split(",");    
