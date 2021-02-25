@@ -8,7 +8,16 @@ Conversion hex color to rgb color and rgb to hex with  vanilla javascript
 #### example:
 
 ```
-const getRgb = HextoRgb("#33aa33");
-
+const getRgb = HextoRgb("#c5c8c5");
+//output: rgb(197,200,197)
 ```
 
+`We've the second  function Rgb to Hex, this receiving a String as argument` 
+
+
+#### example:
+
+```
+const getHex = RgbtoHex("rgb(197,200,197)");
+//output: #c5c8c5 
+```
